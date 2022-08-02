@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ella Mae Cañaveral, an IT student.
+# 👋 Hi, I’m Ella C., an IT student.
 <p align="center"> <strong> <em> in which STEM and Languages fill my life </em> </strong> </p>
 
 I'm an IT student aspiring to become a web developer and, in the long run, a computational linguist. After half a lifetime of being immersed in language learning, I have

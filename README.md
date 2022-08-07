@@ -7,8 +7,8 @@ decided to broaden my knowledge by learning how to code.
 of myself.)
 - 🌱 I’m currently learning **front-end web development** and **Python**.
 - 💞️ I’m looking to collaborate on **open-source websites** about STEM in order to make them more accessible to eager and interested students, as well as on projects 
-having to do with **language technologies**. 
-- 📫 If you're open for collaborations or are enthusiastic about language learning and want to chat with me about it, you can reach me through my email at **ellalala.mc@gmail.com**.
+having to do with **language technologies**. I am still working on my coding and programming skills, though, and I still have a long way to go!
+- 📫 If you're open for collaborations, enthusiastic about language learning and want to chat with me about it, you can reach me through my email at **ellalala.mc@gmail.com**.
 - ✍️ I also write blog articles about STEM and languages on my Medium account under [**Ella C.**](https://c-ella.medium.com/) Your perusal would mean the world to me!
 
  

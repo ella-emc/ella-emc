@@ -5,7 +5,7 @@ I'm an IT student aspiring to become a web developer and, in the long run, a com
 decided to broaden my knowledge by learning how to code. 
 - 👀 I’m interested in **languages**, **linguistics**, and **programming**. (I have some other interests, but these take up most of my time and have become a huge part
 of myself.)
-- 🌱 I’m currently learning **front-end web development** and **Python**.
+- 🌱 I’m currently learning **front-end development** and **Python**.
 - 💞️ I’m looking to collaborate on **open-source websites** about STEM in order to make them more accessible to eager and interested students, as well as on projects 
 having to do with **language technologies**. I am still working on my coding and programming skills, though, and I still have a long way to go!
 - ✍️ I also write blog articles about STEM and languages on my Medium account under [**Ella C.**](https://ella-emc.medium.com/) Your perusal would mean the world to me!

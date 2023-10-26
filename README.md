@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ella C., an IT student.
 <p align="center"> <strong> <em> in which STEM and Languages fill my life </em> </strong> </p>
 
-I'm an IT student aspiring to become a web developer and, in the long run, a computational linguist. After half a lifetime of being immersed in language learning, I have
+I'm an IT student aspiring to become a mobile developer and, in the long run, a computational linguist. After half a lifetime of being immersed in language learning, I have
 decided to broaden my knowledge by learning how to code. 
 - 👀 I’m interested in **languages**, **linguistics**, and **programming**. (I have some other interests, but these take up most of my time and have become a huge part
 of myself.)
